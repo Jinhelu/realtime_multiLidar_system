@@ -1,0 +1,5 @@
+/media/xiawenqiang/读书资料/曹亚宁毕业资料/Record11.13/build/CMakeFiles/rebuild_cache.dir
+/media/xiawenqiang/读书资料/曹亚宁毕业资料/Record11.13/build/CMakeFiles/edit_cache.dir
+/media/xiawenqiang/读书资料/曹亚宁毕业资料/Record11.13/build/CMakeFiles/Record.dir
+/media/xiawenqiang/读书资料/曹亚宁毕业资料/Record11.13/build/CMakeFiles/imu_get_data.dir
+/media/xiawenqiang/读书资料/曹亚宁毕业资料/Record11.13/build/CMakeFiles/PointCloudManage.dir

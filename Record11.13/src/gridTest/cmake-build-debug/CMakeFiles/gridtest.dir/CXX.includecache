@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cyn/RSlidarTest/RSlidarTest6.5.2/src/grid.h
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+vector
+-
+deque
+-
+
+/home/cyn/RSlidarTest/RSlidarTest6.5.2/src/gridTest/headTeat.cpp
+bits/stdc++.h
+-
+../grid.h
+/home/cyn/RSlidarTest/RSlidarTest6.5.2/src/grid.h
+

@@ -1,0 +1,3 @@
+/home/rbt/cyn/RSlidarTest11.5/build/../lib/libPointCloudManage.so
+/home/rbt/cyn/RSlidarTest11.5/build/../lib/libgrid_manage.so
+/home/rbt/cyn/RSlidarTest11.5/build/../lib/libLidarMap.so

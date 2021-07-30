@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimu_get_data.a  CMakeFiles/imu_get_data.dir/src/imu_get_data.cpp.o
+/usr/bin/ranlib libimu_get_data.a

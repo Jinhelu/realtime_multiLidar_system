@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++14 -pthread -O3  -Wno-deprecated -O3 -DNDEBUG   -shared -Wl,-soname,libLidarMap.so -o libLidarMap.so CMakeFiles/LidarMap.dir/src/MutiLidar.cpp.o CMakeFiles/LidarMap.dir/RSDecoder/input.cpp.o CMakeFiles/LidarMap.dir/src/GetFrame_RS.cpp.o CMakeFiles/LidarMap.dir/src/Auxiliary.cpp.o 

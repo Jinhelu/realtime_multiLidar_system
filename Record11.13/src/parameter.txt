@@ -1,0 +1,15 @@
+sor_vox_LeafSize 0.035
+ThresholdIntensity 200
+ErrrorPointSearchRadius 0.1
+ErrrorPointNearNum 4
+StdTargetSize 0.35355
+max_x 16.0
+min_x -5.0
+max_y 10.0
+min_y -10.0
+max_z 1.8
+min_z -1.8
+gridmapNum_x 300
+gridmapNum_y 300
+gridScale 0.1
+PixelPerGrid 2

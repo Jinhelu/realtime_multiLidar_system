@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -DNDEBUG   CMakeFiles/modi_ImuRecord.dir/main.cpp.o  -o ../bin/modi_ImuRecord 

@@ -1,0 +1,24 @@
+sor_vox_LeafSize 0.035
+ThresholdIntensity 196
+ErrrorPointSearchRadius 0.1
+ErrrorPointNearNum 4
+StdTargetSize 0.35355
+max_x 11
+min_x -3.0
+max_y 6.0
+min_y -6.0
+max_z 0.4
+min_z -1.5
+gridmapNum_x 226
+gridmapNum_y 226
+gridScale 0.1
+PixelPerGrid 3
+
+aboveGround_NoPrecise 0.8
+aboveGround 0.25
+groundEstimateNum 40
+outPlaneDistance 0.05
+cutAngleYaw 32
+cutAnglePitch 68
+maxDeviaAngle_deg 0.3
+
